@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cmurgu.github.io/cv/</loc>
+    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/lessons/a-critical-approach-to-building-digital-collections/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cmurgu.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cmurgu.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/lessons/critical-digital-literacy-with-web-archives/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/lessons/digital-scholarship-labs-online-session/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/lessons/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2020/04/academic-library-job-openings-during-covid19/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2020/02/on-making-things/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</loc>
+    <lastmod>2019-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/about/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/__index/</loc>
+    <lastmod>2019-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2019/02/its-time-to-go-jeff/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2018/07/on-library-jobs/</loc>
+    <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2017/07/on-conflating-values/</loc>
+    <lastmod>2017-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2017/06/on-metrics-and-acknowledgement-texts/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2017/05/mother-tongues/</loc>
+    <lastmod>2017-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2017/04/on-dh-and-digital-archives/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2016/11/the-new-trump-library/</loc>
+    <lastmod>2016-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2016/07/long-distance-grieving/</loc>
+    <lastmod>2016-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2016/07/on-leaving-montreal/</loc>
+    <lastmod>2016-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2016/06/on-returning-home/</loc>
+    <lastmod>2016-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2016/01/on-trying-to-get-it-right/</loc>
+    <lastmod>2016-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/posts/2015/12/the-humanities-arent-booming.-thats-okay./</loc>
+    <lastmod>2015-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/cv1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/cvcopy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cmurgu.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cmurgu.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cmurgu.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cmurgu.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cmurgu.github.io/tags/"
+                />
+  </url>
+  
+</urlset>

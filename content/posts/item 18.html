@@ -1,0 +1,208 @@
+---
+title: 'Academic library job openings during COVID19 🚨'
+published: true
+date: "2020-04-15"
+publish_date: '04-15-2020 00:00'
+taxonomy:
+tag:
+- blog
+---
+
+<p>The job market for positions in academic librarianship has never been particularly great, but COVID19 promises to
+    shake
+    up hiring across higher-ed.</p>
+
+<p>This page tracks the number of academic library positions
+    posted on <span style="color: rgb(52, 201, 235)">ALA Job Board</span> and
+    the <span style="color: rgb(255, 25, 132)">Canadian Partnership</span> job site. While these two sites do not
+    represent a complete list of available positions,
+    they're arguably the
+    most
+    popular job websites for Canadian and American academic library roles. Historical job data is difficult to find, so
+    comparing M or YTD is
+    challenging, but using the data collected by the folks at <a href="https://osf.io/ybczx/">LIS Precarity</a> I
+    compare the number of
+    jobs available today to <span style="color: rgb(255, 191, 41)">that of
+        last
+        year</span>.
+    This graphic uses current openings as a baseline. It updates once a day to reflect the current state of the market.
+</p>
+<p>In addition, screenshots of open positions are made available below and
+    a request is made to the Wayback Machine to create snapshots so that we have a record of job openings in the
+    future.</p>
+
+<h2>Academic Library Jobs</h2>
+<canvas id="myChart"></canvas>
+
+<p style="font-size: .5em;">Source: <a
+        href="https://partnershipjobs.ca/jobs?type_id=1&org_name=&keywords=&country_id=1039&province_id=&city=">Partnership
+        Job Board</a> | <a
+        href="https://joblist.ala.org/jobs/?keywords=&kfields=&location=&location_completion=&location_type=&radius=&t732=472403&t731=&t733=&t735=&max=100&search=">ALA
+        Job Board</a> | Special thanks to LIS Precarity for sharing <a href="https://osf.io/ybczx/">their historical
+        data.</a></p>
+<p style="font-size: .5em;">Made by Cal Murgu with ChartJS and tabletopJS</p>
+<h2>Job Type</h2>
+<p>Of the <span style="font-size: 2em;" id="type"></span> available jobs in Canada right now, here's a breakdown by
+    type of job.</p>
+<canvas id="myDoughnut"></canvas>
+<p style="font-size: .5em;">Source: <a
+        href="https://partnershipjobs.ca/jobs?type_id=1&org_name=&keywords=&country_id=1039&province_id=&city=">Partnership
+        Job Board</a></p>
+<p style="font-size: .5em;">Made by Cal Murgu with ChartJS and tabletopJS</p>
+<h2>Ch-ch-ch-ch-changes 👨‍🎤</h2>
+<p>On this day last year, there were about <span style="font-size: 2em;" id="changes"></span> additional job openings in
+    Canada.</p>
+<h2>Postings for<span id="today"></span></h2>
+<p>Partnership</p>
+<a
+    href="https://web.archive.org/web/20200415180642/https://partnershipjobs.ca/jobs?type_id=1&org_name=&keywords=&country_id=1039&province_id=&city="><img
+        id="partnerimg" src="#"></a>
+<p>ALA Job Board</p>
+<a
+    href="https://web.archive.org/web/20200415180642/https://joblist.ala.org/jobs/?keywords=&kfields=&location=&location_completion=&location_type=&radius=&t732=472403&t731=&t733=&t735=&max=100&search="><img
+        id="alaimg" src="#"></a>
+
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+<script>
+    var today = new Date();
+    var dd = String(today.getDate()).padStart(2, '0');
+    var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+    var yyyy = today.getFullYear();
+
+    today = mm + '-' + dd + '-' + yyyy;
+
+    document.getElementById('today').innerHTML = "&nbsp;" + today;
+
+    window.onload = function () {
+        document.getElementById('partnerimg').src = "http://calmurgu.com/cron/" + today + "-CAN.png";
+        document.getElementById('alaimg').src = "http://calmurgu.com/cron/" + today + "-USA.png";
+        console.log("Images successfully processed.")
+    };
+
+    var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1OUkYZSHIjt4DcQF2_WUDn6gkXptOIAZaOB9d4l9CGY8/edit#gid=444005941';
+    var totalsHist = [];
+    var datesHist = [];
+    var totalsCAN = [];
+    var datesCAN = [];
+    var datesUS = [];
+    var totalsUS = [];
+    var newLast = [];
+    var oldLast = [];
+
+    function init() {
+        Tabletop.init({
+            key: publicSpreadsheetUrl,
+            callback: showInfo,
+            simpleSheet: false
+        })
+    };
+
+    function showInfo(data, tabletop) {
+        console.log('Data successfully processed!');
+        var histtot = data['TotalHIST'].elements;
+        histtot.forEach(function (histtot) {
+            datesHist.push(histtot.Date);
+            totalsHist.push(histtot.Total);
+        });
+        var cantot = data['TotalCAN'].elements;
+        cantot.forEach(function (cantot) {
+            datesCAN.push(cantot.Date);
+            totalsCAN.push(cantot.Total);
+        });
+        var ustot = data['TotalUS'].elements;
+        ustot.forEach(function (ustot) {
+            datesUS.push(ustot.Date);
+            totalsUS.push(ustot.Total);
+        });
+        var doughnut = data['TypeCAN'].elements;
+
+        var ctx = document.getElementById('myDoughnut').getContext('2d');
+        new Chart(ctx, {
+            // The type of chart we want to create
+            type: 'doughnut',
+
+            // The data for our dataset
+            data: {
+                labels: ["Administrative", "Management", "Regular"],
+                datasets: [
+                    {
+                        label: "Population (millions)",
+                        backgroundColor: ["rgb(52, 201, 235)", "rgb(255, 191, 41)", "rgb(255, 25, 132)"],
+                        data: [doughnut[0].Admin, doughnut[0].Management, doughnut[0].Non]
+                    }
+                ]
+            },
+            options: {
+                title: {
+                    display: true,
+                    text: 'Types of Jobs available in Canada on ' + today
+                }
+            }
+        });
+        var keys = Object.keys(cantot);
+        var keyslen = keys.length - 1;
+        newLast.push(cantot[keyslen].Total);
+        oldLast.push(histtot[keyslen].Total);
+        document.getElementById('type').innerHTML = cantot[keyslen].Total;
+        document.getElementById('changes').innerHTML = histtot[keyslen].Total - cantot[keyslen].Total;
+
+
+        fillgraph(totalsCAN, datesCAN, datesUS, totalsUS, totalsHist, datesHist);
+    };
+
+    function fillgraph(totalsCAN, datesCAN, datesUS, totalsUS, totalsHist, datesHist) {
+        var ctx = document.getElementById('myChart').getContext('2d');
+        window.myChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: datesUS,
+                datasets: [{
+                    label: 'Partnership Totals',
+                    backgroundColor: 'rgb(255, 99, 132)',
+                    borderColor: 'rgb(255, 25, 132)',
+                    fill: false,
+                    data: totalsCAN,
+                }, {
+                    label: 'Partnership 2019 Totals',
+                    backgroundColor: 'rgb(255, 191, 41)',
+                    borderColor: 'rgb(255, 191, 41)',
+                    fill: false,
+                    data: totalsHist,
+                },
+                {
+                    label: 'ALA Job Board Totals',
+                    backgroundColor: 'rgb(52, 201, 235)',
+                    borderColor: 'rgb(52, 201, 235)',
+                    fill: false,
+                    data: totalsUS,
+                }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    yAxes: [{
+                        scaleLabel: {
+                            display: true,
+                            labelString: 'Number of Jobs'
+                        }
+                    }],
+                    xAxes: [{
+                        scaleLabel: {
+                            display: true,
+                            labelString: 'Date'
+                        }
+                    }]
+                }
+            }
+        })
+        console.log('Graph successfully processed!');
+    };
+
+    window.addEventListener('DOMContentLoaded', init)
+
+
+</script>
