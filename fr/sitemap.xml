@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cmurgu.github.io/fr/</loc>
+    <loc>https://calmurgu.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cmurgu.github.io/"
+                href="https://calmurgu.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cmurgu.github.io/fr/"
+                href="https://calmurgu.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://cmurgu.github.io/fr/categories/</loc>
+    <loc>https://calmurgu.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cmurgu.github.io/categories/"
+                href="https://calmurgu.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cmurgu.github.io/fr/categories/"
+                href="https://calmurgu.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://cmurgu.github.io/fr/tags/</loc>
+    <loc>https://calmurgu.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cmurgu.github.io/tags/"
+                href="https://calmurgu.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cmurgu.github.io/fr/tags/"
+                href="https://calmurgu.com/fr/tags/"
                 />
   </url>
   

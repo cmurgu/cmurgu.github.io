@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Cal Murgu</title>
-        <link>https://cmurgu.github.io/posts/</link>
+        <link>https://calmurgu.com/posts/</link>
         <description>Recent content in Posts on Cal Murgu</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://cmurgu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://calmurgu.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Academic library job openings during COVID19 🚨</title>
-            <link>https://cmurgu.github.io/posts/2020/04/academic-library-job-openings-during-covid19/</link>
+            <link>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</link>
             <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2020/04/academic-library-job-openings-during-covid19/</guid>
+            <guid>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</guid>
             <description>The job market for positions in academic librarianship has never been particularly great, but COVID19 promises to shake up hiring across higher-ed.
 This page tracks the number of academic library positions posted on ALA Job Board and the Canadian Partnership job site. While these two sites do not represent a complete list of available positions, they&#39;re arguably the most popular job websites for Canadian and American academic library roles. Historical job data is difficult to find, so comparing M or YTD is challenging, but using the data collected by the folks at LIS Precarity I compare the number of jobs available today to that of last year.</description>
             <content type="html"><![CDATA[
@@ -219,10 +219,10 @@ This page tracks the number of academic library positions posted on ALA Job Boar
         
         <item>
             <title>Covid-19 Academic Library Closures in US and Canada</title>
-            <link>https://cmurgu.github.io/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</link>
+            <link>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</link>
             <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</guid>
+            <guid>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</guid>
             <description>Covid-19 Academic Library Closures in US and Canada :: Cal Murgu — Hello Friend   h1, h2, h3, h4, h5 { font-family: &#39;Roboto&#39;, sans-serif; font-style: normal; font-weight: bold; } html { letter-spacing: 0em; } a.button1 { display: inline-block; padding: 0.35em 1.2em; border: 0.1em solid black; margin: 0 0.3em 0.3em 0; border-radius: 0.12em; box-sizing: border-box; text-decoration: none; font-family: &#39;Roboto&#39;, sans-serif; font-weight: 300; color: gray; text-align: center; transition: all 0.</description>
             <content type="html"><![CDATA[
 <!DOCTYPE html>
@@ -650,10 +650,10 @@ I&rsquo;ve brought together a few different sources to display the growing numbe
         
         <item>
             <title>On making things</title>
-            <link>https://cmurgu.github.io/posts/2020/02/on-making-things/</link>
+            <link>https://calmurgu.com/posts/2020/02/on-making-things/</link>
             <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2020/02/on-making-things/</guid>
+            <guid>https://calmurgu.com/posts/2020/02/on-making-things/</guid>
             <description>I like many things about being an academic librarian: the freedom to explore interesting and creative topics with students and other faculty; the latitude to create programs and programming; the thrill and excitement of instruction; creating new digital objects; constantly having to learn new things and methods. I could go on.
 I also dislike a few things about being an academic librarian. LibGuides, for instance (sorry not sorry), are near the top of that list.</description>
             <content type="html"><![CDATA[<p><img src="http://calmurgu.com/images/coffeesoap/coffee1.jpeg" alt=""></p>
@@ -674,10 +674,10 @@ I also dislike a few things about being an academic librarian. LibGuides, for in
         
         <item>
             <title>Representing Sentiment Scores of Specific Locations with Original Music. An exercise in musicdh</title>
-            <link>https://cmurgu.github.io/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</link>
+            <link>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</link>
             <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</guid>
+            <guid>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</guid>
             <description>In Spring 2020, I had the opportunity to co-sponsor an independent study project for 2nd year student at New College. The objective seemed simple enough: study the intersection of music and the digital humanities and produce a project that represents that intersection. It seems to me that the fields of musicology and music composition have not been affected by the digital humanities to the same degree as other fields. With respect to the latter, perhaps this is because composition turned towards the digital decades ago.</description>
             <content type="html"><![CDATA[<p>In Spring 2020, I had the opportunity to co-sponsor an independent study project for 2nd year student at New College. The objective seemed simple enough: study the intersection of music and the digital humanities and produce a project that represents that intersection. It seems to me that the fields of musicology and music composition have not been affected by the digital humanities to the same degree as other fields. With respect to the latter, perhaps this is because composition turned towards the digital decades ago. To be sure, work is being done in the field of musicDH: <a href="https://www.frontiersin.org/journals/digital-humanities/sections/digital-musicology">Frontiers in Digital Humanities</a> have published about a dozen articles on the topic, and there are several interesting projects, such as the <a href="https://led.kmi.open.ac.uk/">Listening Experience Database</a> that open up rich opportunities for digital musicology. This is where we found ourselves in late December.</p>
 <p>Of all the different techniques in natural language processing, we were most intrigued by sentiment analysis due to the innate sentimentality of music. How could we bring natural language processing and original composition together? Our plan was as follows.</p>
@@ -702,10 +702,10 @@ I also dislike a few things about being an academic librarian. LibGuides, for in
         
         <item>
             <title>Confessions of a reformed Omeka acolyte. Minimalist options for digital exhibitions</title>
-            <link>https://cmurgu.github.io/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</link>
+            <link>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</link>
             <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</guid>
+            <guid>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</guid>
             <description>While a Digital Projects Coordinator at the University of Windsor in 2015-16, I remember thinking that Omeka would revolutionize the way we create and teach about digital exhibits, metadata, and the subtle acts involved in digital collecting. Here was a relatively lightweight CMS that enabled us to spin up new instances almost immediately. With set-up a breeze, we could focus our attention on the intellectual work of arrangement, description, and narrative.</description>
             <content type="html"><![CDATA[<p>While a Digital Projects Coordinator at the University of Windsor in 2015-16, I remember thinking that Omeka would revolutionize the way we create and teach about digital exhibits, metadata, and the subtle acts involved in digital collecting. Here was a relatively lightweight CMS that enabled us to spin up new instances almost immediately. With set-up a breeze, we could focus our attention on the intellectual work of arrangement, description, and narrative. I was also excited by the opportunity that Omeka offered for pedagogy. At the same time as the public humanities picked up steam, Omeka lowered the barrier of entry for humanities instructors to introduce digital scholarship and create assignments revolving around the platform. In this context, and perhaps as a result of the interesting and deep relationship that I had created with the faculty at Windsor, we found ourselves in the classroom more often.</p>
 <blockquote>
@@ -736,10 +736,10 @@ I also dislike a few things about being an academic librarian. LibGuides, for in
         
         <item>
             <title>Visualizing Librarian/Faculty Interaction Data with R</title>
-            <link>https://cmurgu.github.io/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
+            <link>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
             <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</guid>
+            <guid>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</guid>
             <description>Thanks to Jesse Sadler and their blog for this information. It was very, very helpful for a novice like me. I find that I learn best when I have a specific project to practice with, with tangible goals that I can associate with my work. This is an example of one such project.
 This post is an attempt at using R to develop a process for using Librarian/Faculty interaction data in a meaningful way.</description>
             <content type="html"><![CDATA[<p>Thanks to Jesse Sadler and their
@@ -1020,10 +1020,10 @@ share.</p>
         
         <item>
             <title>It&#39;s time to go, Jeff</title>
-            <link>https://cmurgu.github.io/posts/2019/02/its-time-to-go-jeff/</link>
+            <link>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</link>
             <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2019/02/its-time-to-go-jeff/</guid>
+            <guid>https://calmurgu.com/posts/2019/02/its-time-to-go-jeff/</guid>
             <description>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &amp;ldquo;predatory publishers.&amp;rdquo; The other half let out a massive sigh of relief. Beall&amp;rsquo;s retirement succeeded a prolonged period of scandal in some academic circles.
 In the years leading up to his retirement, Beall began to receive increasingly negative attention for his now infamous &amp;ldquo;Beall&amp;rsquo;s list,&amp;rdquo; a blacklist of potentially predatory publishers that he himself had curated since 2008 (presumably on his free time, and not while working at the Auroria Library).</description>
             <content type="html"><![CDATA[<p>When Jeffrey Beall retired from the Auroria Library at the University of Colorado at Denver in March 2018, half of the scholarly publishing world applauded him for his efforts against &ldquo;predatory publishers.&rdquo; The other half let out a massive sigh of relief. Beall&rsquo;s retirement succeeded a prolonged period of scandal in some academic circles.</p>
@@ -1051,10 +1051,10 @@ This prominence and homogeneity of leftist ideology is reflected at library conf
         
         <item>
             <title>On library jobs</title>
-            <link>https://cmurgu.github.io/posts/2018/07/on-library-jobs/</link>
+            <link>https://calmurgu.com/posts/2018/07/on-library-jobs/</link>
             <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2018/07/on-library-jobs/</guid>
+            <guid>https://calmurgu.com/posts/2018/07/on-library-jobs/</guid>
             <description>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&amp;rsquo;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&amp;rsquo;s &amp;ldquo;A CV of Failures&amp;rdquo; and Johanes Haushofer&amp;rsquo;s &amp;ldquo;CV of Failures,&amp;quot; which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job.</description>
             <content type="html"><![CDATA[<p>This post is primarily for graduate students in LIS that are looking for some anecdotal information about what it’s like to look for work in the information field. It&rsquo;s a pretty nasty proposition. In general, this post is like many others in an emerging genre, prompted by Melanie Stefan&rsquo;s <a href="https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a">&ldquo;A CV of Failures&rdquo;</a> and Johanes Haushofer&rsquo;s <a href="https://www.theguardian.com/education/2016/apr/30/cv-of-failures-princeton-professor-publishes-resume-of-his-career-lows">&ldquo;CV of Failures,&quot;</a> which attempt to shine a spotlight on all of the things academics apply for and fail to get, be it a grant, scholarship, publication, or job. As Johanes Haushofer writes,</p>
 <blockquote>
@@ -1145,10 +1145,10 @@ applications are crapshoots, and selection committees and referees have bad days
         
         <item>
             <title>On Conflating Values</title>
-            <link>https://cmurgu.github.io/posts/2017/07/on-conflating-values/</link>
+            <link>https://calmurgu.com/posts/2017/07/on-conflating-values/</link>
             <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2017/07/on-conflating-values/</guid>
+            <guid>https://calmurgu.com/posts/2017/07/on-conflating-values/</guid>
             <description>And so, given their pervasive nature and ability “to foster broad changes, both intended and unintended, in the activities that they monitor, social measures deserve closer scholarly attention.” It seems that we have embraced, albeit to different degrees, the practice of ranking institutional repositories. I find this development problematic because it extends the language and logic of markets to an initiative that has heretofore been fueled by magnanimity, author rights, and social justice, first, and capital, second.</description>
             <content type="html"><![CDATA[<p>And so, given their pervasive nature and ability “to foster broad changes, both intended and unintended, in the activities that they monitor, social measures deserve closer scholarly attention.” It seems that we have embraced, albeit to different degrees, the practice of ranking institutional repositories. I find this development problematic because it extends the language and logic of markets to an initiative that has heretofore been fueled by magnanimity, author rights, and social justice, first, and capital, second.</p>
 <p>The <!-- raw HTML omitted -->Ranking Web of Institutional Repositories<!-- raw HTML omitted --> (RWIR), an initiative out of the Cybermetrics Lab at the Consejo Superior de Investigaciones Cientificas (Madrid), seeks to <!-- raw HTML omitted -->“to support Open Access initiatives and therefore the free access to scientific publications in an electronic form and to other academic material. The web indicators are used here to measure the global visibility and impact of the scientific repositories.”<!-- raw HTML omitted --> A standard opening. Subsequently, the RWIR’s mission statement devolves into a discourse embedded in market logic: <!-- raw HTML omitted -->“If the web performance of an institution is below the expected position according to their academic excellence, institution authorities should reconsider their web policy, promoting substantial increases of the volume and quality of their electronic publications.”<!-- raw HTML omitted --> The logic here is that once we have established benchmarks with which to judge whether an institution is “picking up the OA slack” via their institutional repositories, we can effectively guilt them into action. In contrast, the institutions that are knocking it out of the park can display another shiny accolade on the proverbial mantle. For those lagging behind, RWIR provides a “Decalogue of good practices” to boost the “position” of the institutional repository, which is ostensibly nothing more than a SEO brochure.</p>
@@ -1161,10 +1161,10 @@ applications are crapshoots, and selection committees and referees have bad days
         
         <item>
             <title>On Metrics and Acknowledgement Texts</title>
-            <link>https://cmurgu.github.io/posts/2017/06/on-metrics-and-acknowledgement-texts/</link>
+            <link>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</link>
             <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2017/06/on-metrics-and-acknowledgement-texts/</guid>
+            <guid>https://calmurgu.com/posts/2017/06/on-metrics-and-acknowledgement-texts/</guid>
             <description>===
 At first glance, these metrics are innocuous. In an increasingly austere environment, measurement and quantitative evaluation have become part and parcel of the machinery of academia at all levels, normalized for provosts, students, and everyone in between. However, having given this a little more thought, I think that the most sinister thing about these metrics is that they&amp;rsquo;re increasingly being self-imposed; that is, governments, in an act of &amp;lsquo;magnanimity&amp;rsquo;, are encouraging institutions to identify which measures they&amp;rsquo;d like to be held to account on.</description>
             <content type="html"><![CDATA[<p>===</p>
@@ -1191,10 +1191,10 @@ At first glance, these metrics are innocuous. In an increasingly austere environ
         
         <item>
             <title>Mother tongues</title>
-            <link>https://cmurgu.github.io/posts/2017/05/mother-tongues/</link>
+            <link>https://calmurgu.com/posts/2017/05/mother-tongues/</link>
             <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2017/05/mother-tongues/</guid>
+            <guid>https://calmurgu.com/posts/2017/05/mother-tongues/</guid>
             <description>When I was about 8 or 9 I renounced Romanian and began to think and dream exclusively in English. To renounce my mother tongue was an active decision. I remember the day that I said to myself, &amp;ldquo;English is my language now and I must learn it and embrace it.&amp;rdquo; I said this immediately following a spelling test in which I misspelled &amp;ldquo;Dad&amp;rdquo;; I wrote down &amp;ldquo;Dod.&amp;rdquo; I had just started school.</description>
             <content type="html"><![CDATA[<p>When I was about 8 or 9 I renounced Romanian and began to think and dream exclusively in English. To renounce my mother tongue was an active decision. I remember the day that I said to myself, &ldquo;English is my language now and I must learn it and embrace it.&rdquo; I said this immediately following a spelling test in which I misspelled &ldquo;Dad&rdquo;; I wrote down &ldquo;Dod.&rdquo; I had just started school. What was I thinking? I was <!-- raw HTML omitted -->over<!-- raw HTML omitted -->thinking, in the wrong language. For me North America was a new world—and in this new world English was the key: the key to community, the key to networks, the key to sociality, the key to friendship, the key to culture, the key to citizenship, the key to <!-- raw HTML omitted -->everything<!-- raw HTML omitted -->.</p>
 <p>And besides, I could not write well in Romanian; I struggled with grammar and felt as though I was always behind. I was only 7. People would tell me that Romanian &ldquo;is an easy language because it&rsquo;s phonetic and it has very strict rules. You just need to memorize the rules.&rdquo; I could not memorize the rules. Nevertheless, I could speak it fairly well and it was the language I used to think and articulate my thoughts. I recall taking private English lessons with a pleasant man sporting a Tom Selleck moustache. He would have me watch cartoons and we would translate words together and my parents would pay him and I gather they thought I was well on my way to mastering the language; they did not know at the time that I would go on to misspell &ldquo;Dad.&rdquo;</p>
@@ -1205,10 +1205,10 @@ At first glance, these metrics are innocuous. In an increasingly austere environ
         
         <item>
             <title>On DH and Digital Archives</title>
-            <link>https://cmurgu.github.io/posts/2017/04/on-dh-and-digital-archives/</link>
+            <link>https://calmurgu.com/posts/2017/04/on-dh-and-digital-archives/</link>
             <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2017/04/on-dh-and-digital-archives/</guid>
+            <guid>https://calmurgu.com/posts/2017/04/on-dh-and-digital-archives/</guid>
             <description>This post was originally published as a MediaCommons Field Guide. You can read the original, along with other responses on the question of the future of the archive, here. I’ll start off by disclosing that I am notan archivist; my perspective is informed by the time I’ve spent in archives as a researcher, and the work that I’ve been doing recently on digital historiography. In a way, I’m an outsider looking in.</description>
             <content type="html"><![CDATA[<p>This post was originally published as a MediaCommons Field Guide. You can read the original, along with other responses on the question of the future of the archive, <!-- raw HTML omitted -->here. <!-- raw HTML omitted --></p>
 <p>I’ll start off by disclosing that I am <!-- raw HTML omitted -->not<!-- raw HTML omitted --> an archivist; my perspective is informed by the time I’ve spent in archives as a researcher, and the work that I’ve been doing recently on digital historiography. In a way, I’m an outsider looking in. That being said, historians are introduced to and respect deeply the elements of archival theory that make their work possible, including provenance, authority, and context. I’m also aware that digital technologies have profoundly impacted the way that historians search for, perform, and disseminate research. In particular, historians are increasingly expecting, on one hand, to find primary sources on the web, and on the other, are encouraged, by funding bodies and institutions, to make material available online. This, in turn, has placed added pressure on archivists to allocate increased resources to improving catalogues and item descriptions, and provide full-text documents or high-resolution images whenever possible. The relationship is reciprocal. Practicing digital humanists have taken it upon themselves to develop curated online repositories using a variety of platforms to meet this demand and to support open access initiatives. While this practice is generally positive, I believe that considering an online repository as tantamount to an archive — gestured by our use of the “digital” qualifier — requires some critical attention.</p>
@@ -1223,10 +1223,10 @@ that the colloquial use of the term “archive” to denote simply “a purposef
         
         <item>
             <title>The new Trump Library</title>
-            <link>https://cmurgu.github.io/posts/2016/11/the-new-trump-library/</link>
+            <link>https://calmurgu.com/posts/2016/11/the-new-trump-library/</link>
             <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2016/11/the-new-trump-library/</guid>
+            <guid>https://calmurgu.com/posts/2016/11/the-new-trump-library/</guid>
             <description>About three weeks ago, back when the world made sense and talk of Donald Trump in the Oval Office was almost exclusively preceded by a “wouldn’t it be hilarious if,” Robert Darnton, Carl H. Pforzheimer University Professor and University Librarian Emeritus at Harvard, mused about the future of the Library of Congress in a Clinton administration. “When the new president, if she is Hillary Clinton, moves into the White House,” asks Darnton, “will she unpack her library in the spirit of Walter Benjamin—releasing memories of adventures attached to books?</description>
             <content type="html"><![CDATA[<p>About three weeks ago, back when the world made sense and talk of Donald Trump in the Oval Office was almost exclusively preceded by a “wouldn’t it be hilarious if,” Robert Darnton, Carl H. Pforzheimer University Professor and  University Librarian Emeritus at Harvard, <!-- raw HTML omitted -->mused about the future of the Library of Congress in a Clinton administration<!-- raw HTML omitted -->. “When the new president, if she is Hillary Clinton, moves into the White House,” asks Darnton, “will she unpack her library in the spirit of Walter Benjamin—releasing memories of adventures attached to books? Not likely.” A sensible conclusion. Darnton continues, undeterred: “the arrival of a new president at this moment, not long after the dawn of the digital age, could open an opportunity to reorient literature and learning in a way that was envisioned by the Founders of our country, one that would bring books within the reach of the entire citizenry.” This in the wake of President Obama’s precedent-setting appointment of an African-American <!-- raw HTML omitted -->woman, <!-- raw HTML omitted -->Dr. Carla Hayden, as the Librarian of Congress. (Hayden’s defence of patron privacy in the wake of the Patriot Act is the stuff of legend in library circles). Darnton must have thought the time ripe: “Two powerful women located at opposite ends of the axis between Capitol Hill and the White House could revive cultural institutions, restore the public domain, and repair the fault lines that run through our information system. More power to them.”</p>
 <p>Having reread Darnton’s hopeful article I cannot help but feel a sense of dread. In the piece, Darnton outlines three specific points where Hayden should make ground: support open-access publishing and challenge publisher oligopolies; team up with Google, the Internet Archive, and HathiTrust to kick digitization initiatives into overdrive and broaden access; and, undermine lobbying efforts to extend copyright while bolstering the Fair Access to Science and Technology Research Act (<!-- raw HTML omitted -->FASTR<!-- raw HTML omitted -->). For after-all, “Her library is like no other in the country,” writes Darnton, “It is a national institution, the main repository of our country’s culture.” A tall order, no doubt, but it is likely that Clinton would have supported Hayden in these endeavours — not out of pure altruism, but out of her proven commitment to public goods, like education and <!-- raw HTML omitted -->health<!-- raw HTML omitted -->, and her stance on <!-- raw HTML omitted -->copyright restructuring<!-- raw HTML omitted -->.</p>
@@ -1237,10 +1237,10 @@ that the colloquial use of the term “archive” to denote simply “a purposef
         
         <item>
             <title>Long distance grieving</title>
-            <link>https://cmurgu.github.io/posts/2016/07/long-distance-grieving/</link>
+            <link>https://calmurgu.com/posts/2016/07/long-distance-grieving/</link>
             <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2016/07/long-distance-grieving/</guid>
+            <guid>https://calmurgu.com/posts/2016/07/long-distance-grieving/</guid>
             <description>After the body of his three-year old son was discovered on a Turkish beach (what is now an iconic image), Abdullah Kurdi’s fears were realized; his entire family, including his two sons and wife had drowned after their boat had capsized whilst on the Aegean. Abdullah then had to make an unimaginably difficult telephone call to the relatives that he was ultimately trying to reach in Vancouver, Canada. Abdullah’s sister, Teema, had tried desperately to sponsor the Kurdi family, but her efforts could not sway Chris Alexander’s Ministry of Immigration.</description>
             <content type="html"><![CDATA[<p>After the body of his three-year old son was discovered on a Turkish beach (what is now an iconic image), Abdullah Kurdi’s fears were realized; his entire family, including his two sons and wife had drowned after their boat had capsized whilst on the Aegean. Abdullah then had to make an unimaginably difficult telephone call to the relatives that he was ultimately trying to reach in Vancouver, Canada. Abdullah’s sister, Teema, had tried desperately to sponsor the Kurdi family, but her efforts could not sway Chris Alexander’s Ministry of Immigration. Following these events, sources described Teema as “completely upset and heartbroken.” At once an understatement and curiously accurate; yes, perhaps imagining a heart literally tearing in half — one made of fibrous tissue, not of paper, and gushing blood — is the only way to go about imagining what Teema must have felt. 9,993 kilometers of land and sea separated her from her family — the moon seems closer at night.</p>
 <p>Regardless of their country of origin (im)migrants face an array of challenges. Complex bureaucratic measures impede their movement across borders while precarious travel arrangements across seas and war-zones put their lives in serious danger. Other elements, like language and ethnicity, erect barriers that require time and patience to hurdle. Despite these challenges (im)migrants continue to <!-- raw HTML omitted -->leave<!-- raw HTML omitted -->, hopeful to find greener pastures. I’d like to suggest by way of vignette that we consider <!-- raw HTML omitted -->long distance grieving<!-- raw HTML omitted --> as another one of these challenges.</p>
@@ -1251,10 +1251,10 @@ that the colloquial use of the term “archive” to denote simply “a purposef
         
         <item>
             <title>On leaving Montreal</title>
-            <link>https://cmurgu.github.io/posts/2016/07/on-leaving-montreal/</link>
+            <link>https://calmurgu.com/posts/2016/07/on-leaving-montreal/</link>
             <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2016/07/on-leaving-montreal/</guid>
+            <guid>https://calmurgu.com/posts/2016/07/on-leaving-montreal/</guid>
             <description>Yesterday morning I woke up in my bed for the first time in almost a week. Upon waking to the sound of The National’s Apartment Story, I needed a moment to reorient. By the time I recognized the hushed gurgling of boiling radiator water spurting out of ancient pipe-seams and the cushioned prance of the terrier living in the apartment above me the malaise had already set in. “Why does time pass so quickly in Montreal,” I asked myself.</description>
             <content type="html"><![CDATA[<p>Yesterday morning I woke up in my bed for the first time in almost a week. Upon waking to the sound of The National’s <!-- raw HTML omitted --><!-- raw HTML omitted -->Apartment Story<!-- raw HTML omitted --><!-- raw HTML omitted -->, I needed a moment to reorient. By the time I recognized the hushed gurgling of boiling radiator water spurting out of ancient pipe-seams and the cushioned prance of the terrier living in the apartment above me the malaise had already set in. “Why does time pass so quickly in Montreal,” I asked myself.</p>
 <p>My story is a conventional one. I lived in Montreal for a year while completing my Master’s degree. With my studies complete, and with funding run-out, I had to depart. Financial pressures and language barriers more-or-less forced me to retreat back to the bridges I had built back in Southern Ontario. I think that I am happy here, with this slower pace of life, most of the time.</p>
@@ -1266,10 +1266,10 @@ that the colloquial use of the term “archive” to denote simply “a purposef
         
         <item>
             <title>On returning &#39;home&#39;</title>
-            <link>https://cmurgu.github.io/posts/2016/06/on-returning-home/</link>
+            <link>https://calmurgu.com/posts/2016/06/on-returning-home/</link>
             <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2016/06/on-returning-home/</guid>
+            <guid>https://calmurgu.com/posts/2016/06/on-returning-home/</guid>
             <description>In a few days, on 13 June 2016, I’ll be traveling back to Romania for a three week stint. But one cannot return if one has not first lefta place.
 Here’s what I can recall:
 The soundtrack to the memories of when my family and I emigrated from Romania is overpowered by four repeating bars of weeping. A nondescript white sprinter van, already filled to capacity with other destined emigres, pulled up to the apartment building where my family and I were waiting.</description>
@@ -1284,10 +1284,10 @@ We jettison versions of ourselves. Some experiences, like emigration, trigger 
         
         <item>
             <title>On trying to get it right</title>
-            <link>https://cmurgu.github.io/posts/2016/01/on-trying-to-get-it-right/</link>
+            <link>https://calmurgu.com/posts/2016/01/on-trying-to-get-it-right/</link>
             <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2016/01/on-trying-to-get-it-right/</guid>
+            <guid>https://calmurgu.com/posts/2016/01/on-trying-to-get-it-right/</guid>
             <description>Edward Samuel Wesley De Cobain entered the Antrim Court dock in March 1893 believing, at least outwardly, that he was innocent.
 He was, right up until he was expelled in 1892, a well-liked representative for East Belfast in the House of Commons. His ardent defense of Protestantism, Unionism, organized labour, and Belfast’s working-classes was hardly spotless during his tenure (1886-1892), but it set him aside from the rest and it nevertheless earned him respect from his constituents and fellow Unionists.</description>
             <content type="html"><![CDATA[<p>Edward Samuel Wesley De Cobain entered the Antrim Court dock in March 1893 believing, at least outwardly, that he was innocent.</p>
@@ -1301,10 +1301,10 @@ He was, right up until he was expelled in 1892, a well-liked representative for 
         
         <item>
             <title>The humanities aren&#39;t booming. That&#39;s okay.</title>
-            <link>https://cmurgu.github.io/posts/2015/12/the-humanities-arent-booming.-thats-okay./</link>
+            <link>https://calmurgu.com/posts/2015/12/the-humanities-arent-booming.-thats-okay./</link>
             <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
             
-            <guid>https://cmurgu.github.io/posts/2015/12/the-humanities-arent-booming.-thats-okay./</guid>
+            <guid>https://calmurgu.com/posts/2015/12/the-humanities-arent-booming.-thats-okay./</guid>
             <description>Peter Mandler, professor of British cultural history at the University of Cambridge, recently published an essayin Aeon (at the risk of sounding like an insufferable dolt, I was readingAeon before it was cool). In what is a well written piece, Mandler establishes something that we already knew very well but needed reminding: humanities enrolment has been more or less static since the 1960s. Moreover, relying on some pretty convincing statistics, Mandler argues that whilerelativenumbers in the humanities have declined, absolute numbers in England, Australia, and the United States have actually increased (mainly due to the increased number of women studying the humanities).</description>
             <content type="html"><![CDATA[<p><!-- raw HTML omitted -->Peter Mandler<!-- raw HTML omitted -->, professor of British cultural history at the University of Cambridge, recently published an <!-- raw HTML omitted -->essay<!-- raw HTML omitted --> in <!-- raw HTML omitted -->Aeon <!-- raw HTML omitted -->(at the risk of sounding like an insufferable dolt, I was reading<!-- raw HTML omitted --> Aeon <!-- raw HTML omitted -->before it was cool). In what is a well written piece, Mandler establishes something that we already knew very well but needed reminding: humanities enrolment has been more or less static since the 1960s. Moreover, relying on some pretty convincing statistics, Mandler argues that while<!-- raw HTML omitted --> relative<!-- raw HTML omitted --> numbers in the humanities have declined, <!-- raw HTML omitted -->absolute <!-- raw HTML omitted -->numbers in England, Australia, and the United States have actually increased (mainly due to the increased number of women studying the humanities). He also establishes historical precedent for the current utilitarian push <!-- raw HTML omitted -->away <!-- raw HTML omitted -->from the humanities, as he contends that “The swing away from the humanities and the sciences [in the 1970s] demonstrated some old lessons. Policymakers had had a very simpleminded understanding of the relationship between education, human capital and economic growth. Their efforts to steer students into the sciences were really a return to earlier, socialist ‘manpower planning’ in favour of certain industrial sectors. In both cases, students had their own ideas of what to study. In both cases, they didn’t respond to government incentives. They were following different signals.” This sounds very familiar.</p>
 <p>Indeed, but what of these signals? What of the cultural forces at play that convince young students to spend their years studying Plato, or reading Chaucer? Mandler returns to these enigmatic forces towards the end of his piece. Here I would have liked to see Mandler apply his skills as a cultural historian; instead, he relies on the work of economist Ross Finnie. Mandler writes: “As the Canadian economist Ross Finnie has <!-- raw HTML omitted -->suggested<!-- raw HTML omitted -->, subject choice derives from ‘a complex set of influences, experiences, relationships and developments that are rooted in the family and probably start quite early in an individual’s life – rather than related to a simple well-informed calculation of the future (monetary) costs and benefits made near or at the end of high school’.” Having read the article, Finnie was actually referring to “decisions regarding access to post-secondary education,” and not “subject choice,” but we’ll let Mandler’s misquote slide because Finnie’s comment is totally vague and can still apply. I found it curious that a cultural historian would rely so heavily on statistics and ignore an opportunity to <!-- raw HTML omitted -->do <!-- raw HTML omitted -->history. At the same time, I shouldn’t be surprised: quantitative evidence has always carried more weight. Nevertheless, his essay seems to have been well received by professional historians and graduate students, while general audiences keep on in ignorance.</p>

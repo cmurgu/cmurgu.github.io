@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cal Murgu</title>
-    <link>https://cmurgu.github.io/</link>
+    <link>https://calmurgu.com/</link>
     <description>Recent content on Cal Murgu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cmurgu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://calmurgu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>https://cmurgu.github.io/cv/</link>
+      <link>https://calmurgu.com/cv/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/cv/</guid>
+      <guid>https://calmurgu.com/cv/</guid>
       <description>Last updated: 10/26/2020
 Education  MLIS, Western University (2018)
  Awarded Beckman Gold Medal in LIS  MA, History, McGill University (2015)
@@ -22,19 +22,19 @@ Library Experience  Instructional Design Librarian, Brock University (2020—)</
     
     <item>
       <title>A Critical Approach to Building Digital Collections</title>
-      <link>https://cmurgu.github.io/lessons/a-critical-approach-to-building-digital-collections/</link>
+      <link>https://calmurgu.com/lessons/a-critical-approach-to-building-digital-collections/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/lessons/a-critical-approach-to-building-digital-collections/</guid>
+      <guid>https://calmurgu.com/lessons/a-critical-approach-to-building-digital-collections/</guid>
       <description>HUMN Bodies and Minds Group Project For this assignment you’ll be using CollectionBuilder, an open-source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology, and Github, a free repository service, to create your own digital collections of archival material. Our archival material will be sourced from the Ringling Archives (special thanks to the Ringling Archives staff for supporting this assignment).</description>
     </item>
     
     <item>
       <title>Critical Digital Literacy and Web Archives</title>
-      <link>https://cmurgu.github.io/lessons/critical-digital-literacy-with-web-archives/</link>
+      <link>https://calmurgu.com/lessons/critical-digital-literacy-with-web-archives/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/lessons/critical-digital-literacy-with-web-archives/</guid>
+      <guid>https://calmurgu.com/lessons/critical-digital-literacy-with-web-archives/</guid>
       <description>Lesson Plan
 Learning Outcomes
   Students will read a text on web archives and demonstrate good comprehension of the text and technology explained therein
@@ -45,10 +45,10 @@ Learning Outcomes
     
     <item>
       <title>Digital Scholarship Studio Session #1 — Text Analysis with Python</title>
-      <link>https://cmurgu.github.io/lessons/digital-scholarship-labs-online-session/</link>
+      <link>https://calmurgu.com/lessons/digital-scholarship-labs-online-session/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/lessons/digital-scholarship-labs-online-session/</guid>
+      <guid>https://calmurgu.com/lessons/digital-scholarship-labs-online-session/</guid>
       <description>As a result of the COVID19 pandemic, all in-person library workshops were cancelled, including the Digital Scholarship Studio Lab sessions. The video and repository below were produced in response to give participants a way to continue learning in a modified format.
 Lesson You can find the lesson repository here: https://github.com/ncflib/DSS-2020-Spring-Workshop
 Video You can find the online learning object here: https://drive.google.com/file/d/1hzBUb52xP41W3Qy5axcyLMc7h05HBWcI/view?usp=sharing</description>
@@ -56,57 +56,57 @@ Video You can find the online learning object here: https://drive.google.com/fil
     
     <item>
       <title>Academic library job openings during COVID19 🚨</title>
-      <link>https://cmurgu.github.io/posts/2020/04/academic-library-job-openings-during-covid19/</link>
+      <link>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/posts/2020/04/academic-library-job-openings-during-covid19/</guid>
+      <guid>https://calmurgu.com/posts/2020/04/academic-library-job-openings-during-covid19/</guid>
       <description>The job market for positions in academic librarianship has never been particularly great, but COVID19 promises to shake up hiring across higher-ed.
 This page tracks the number of academic library positions posted on ALA Job Board and the Canadian Partnership job site. While these two sites do not represent a complete list of available positions, they&#39;re arguably the most popular job websites for Canadian and American academic library roles. Historical job data is difficult to find, so comparing M or YTD is challenging, but using the data collected by the folks at LIS Precarity I compare the number of jobs available today to that of last year.</description>
     </item>
     
     <item>
       <title>Covid-19 Academic Library Closures in US and Canada</title>
-      <link>https://cmurgu.github.io/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</link>
+      <link>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</guid>
+      <guid>https://calmurgu.com/posts/2020/03/covid-19-academic-library-closures-in-us-and-canada/</guid>
       <description>Covid-19 Academic Library Closures in US and Canada :: Cal Murgu — Hello Friend   h1, h2, h3, h4, h5 { font-family: &#39;Roboto&#39;, sans-serif; font-style: normal; font-weight: bold; } html { letter-spacing: 0em; } a.button1 { display: inline-block; padding: 0.35em 1.2em; border: 0.1em solid black; margin: 0 0.3em 0.3em 0; border-radius: 0.12em; box-sizing: border-box; text-decoration: none; font-family: &#39;Roboto&#39;, sans-serif; font-weight: 300; color: gray; text-align: center; transition: all 0.</description>
     </item>
     
     <item>
       <title>On making things</title>
-      <link>https://cmurgu.github.io/posts/2020/02/on-making-things/</link>
+      <link>https://calmurgu.com/posts/2020/02/on-making-things/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/posts/2020/02/on-making-things/</guid>
+      <guid>https://calmurgu.com/posts/2020/02/on-making-things/</guid>
       <description>I like many things about being an academic librarian: the freedom to explore interesting and creative topics with students and other faculty; the latitude to create programs and programming; the thrill and excitement of instruction; creating new digital objects; constantly having to learn new things and methods. I could go on.
 I also dislike a few things about being an academic librarian. LibGuides, for instance (sorry not sorry), are near the top of that list.</description>
     </item>
     
     <item>
       <title>Representing Sentiment Scores of Specific Locations with Original Music. An exercise in musicdh</title>
-      <link>https://cmurgu.github.io/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</link>
+      <link>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</guid>
+      <guid>https://calmurgu.com/posts/2020/01/representing-sentiment-scores-of-specific-locations-with-original-music.-an-exercise-in-musicdh/</guid>
       <description>In Spring 2020, I had the opportunity to co-sponsor an independent study project for 2nd year student at New College. The objective seemed simple enough: study the intersection of music and the digital humanities and produce a project that represents that intersection. It seems to me that the fields of musicology and music composition have not been affected by the digital humanities to the same degree as other fields. With respect to the latter, perhaps this is because composition turned towards the digital decades ago.</description>
     </item>
     
     <item>
       <title>Confessions of a reformed Omeka acolyte. Minimalist options for digital exhibitions</title>
-      <link>https://cmurgu.github.io/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</link>
+      <link>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</guid>
+      <guid>https://calmurgu.com/posts/2019/11/confessions-of-a-reformed-omeka-acolyte.-minimalist-options-for-digital-exhibitions/</guid>
       <description>While a Digital Projects Coordinator at the University of Windsor in 2015-16, I remember thinking that Omeka would revolutionize the way we create and teach about digital exhibits, metadata, and the subtle acts involved in digital collecting. Here was a relatively lightweight CMS that enabled us to spin up new instances almost immediately. With set-up a breeze, we could focus our attention on the intellectual work of arrangement, description, and narrative.</description>
     </item>
     
     <item>
       <title>Visualizing Librarian/Faculty Interaction Data with R</title>
-      <link>https://cmurgu.github.io/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
+      <link>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cmurgu.github.io/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</guid>
+      <guid>https://calmurgu.com/posts/2019/07/visualizing-librarian/faculty-interaction-data-with-r/</guid>
       <description>Thanks to Jesse Sadler and their blog for this information. It was very, very helpful for a novice like me. I find that I learn best when I have a specific project to practice with, with tangible goals that I can associate with my work. This is an example of one such project.
 This post is an attempt at using R to develop a process for using Librarian/Faculty interaction data in a meaningful way.</description>
     </item>
