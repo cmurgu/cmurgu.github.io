@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Flow+Circular&family=Lato:wght@300&family=Neuton:wght@800&family=Urbanist:wght@200&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Cal's personal page</title>
+  <style>
+    .hero-started {
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: linear-gradient(to bottom, #FFFFFF 66%, #F8F9FA 33%);
+    }
+    .hero-started .content {
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      position: relative;
+    }
+    .hero-started .profile-img {
+      width: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+      position: relative;
+      z-index: 2;
+    }
+    .hero-started .left-column {
+      text-align: left;
+    }
+    .hero-started h1 {
+        font-family: 'Neuton', serif;
+      font-size: 5em;
+    }
+    .hero-started h2 {
+        font-family: 'Urbanist', sans-serif;
+      font-size: 2em;
+      color: gray;
+    }
+
+    .hero-started h5 {
+        font-family: 'Flow Circular', cursive;
+        margin-bottom: 20px;
+    }
+
+    .hero-started p {
+      font-family: 'Lato', sans-serif;
+      font-size: 1em;
+      margin-bottom: 20px;
+      color: gray;
+    }
+    .circle-svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+    }
+    .social-icons a {
+        padding-right: 10px;
+
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" style="font-family: 'Flow Circular', cursive;" href="#">Cal Murgu . com</a>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="mailto:murgucal@gmail.com">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero section -->
+  <section class="hero-started d-flex align-items-center justify-content-center">
+    <div class="container d-flex flex-column flex-sm-row">
+      <div class="content col-sm-6 d-flex flex-column justify-content-center left-column">
+        <h2>Librarian • Technologist</h2>
+        <h1>Cal Murgu</h1>
+        <h5>Based in Hamilton , Canada . <br>Get in touch .</h5>
+        <div class="social-icons">
+            <a href="https://github.com/cmurgu" target="_blank">
+                <i class="fab fa-github fa-2x" style="color: #212529;"></i>
+            </a>
+            <a href="https://twitter.com/calmurgu" target="_blank">
+                <i class="fab fa-twitter fa-2x" style="color: #212529;"></i>
+            </a>
+            <a href="https://scholar.google.com/citations?user=dXTFME4AAAAJ&hl=en" target="_blank">
+                <i class="fa-solid fa-building-columns fa-2x" style="color: #212529;"></i>
+            </a>
+            <a href="https://scholar.google.com/citations?user=dXTFME4AAAAJ&hl=en" target="_blank">
+                <i class="fa-solid fa-file fa-2x" style="color: #212529;"></i>
+            </a>
+            
+        </div>
+      </div>
+      <div class="content col-sm-6 d-flex align-items-center justify-content-center">
+        <img src="cal.png" alt="Cal Murgu" class="profile-img img-fluid">
+        <svg width="100%" height="100%" class="circle-svg">
+          <circle cx="150" cy="150" r="120" fill="#EBE7E0" opacity="0.6"/>
+          <circle cx="300" cy="300" r="100" fill="#EB6249" opacity="0.6"/>
+          <circle cx="450" cy="300" r="100" fill="#FBED92" opacity="0.6"/>
+          <circle cx="100" cy="400" r="100" fill="#7FB9DA" opacity="0.6"/>
+        </svg>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
