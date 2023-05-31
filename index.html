@@ -10,14 +10,23 @@
   <link href="https://fonts.googleapis.com/css2?family=Flow+Circular&family=Lato:wght@300&family=Neuton:wght@800&family=Urbanist:wght@200&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <title>Cal's personal page</title>
+  <title>Cal's website</title>
   <style>
     .hero-started {
       align-items: center;
       justify-content: center;
       height: 100vh;
-      background: linear-gradient(to bottom, #FFFFFF 66%, #F8F9FA 33%);
+      background: linear-gradient(to bottom, #FFFFFF 70%, #F8F9FA 33%);
     }
+
+    html {
+    scroll-behavior: smooth;
+  }
+
+  .bg-light {
+      background-color: #F8F9FA !important;
+    }
+
     .hero-started .content {
       padding: 20px;
       display: flex;
@@ -39,6 +48,10 @@
     .hero-started h1 {
         font-family: 'Neuton', serif;
       font-size: 5em;
+    }
+
+    #my-work h2 {
+      font-family: 'Neuton', serif;
     }
     .hero-started h2 {
         font-family: 'Urbanist', sans-serif;
@@ -65,8 +78,47 @@
     }
     .social-icons a {
         padding-right: 10px;
+        text-decoration: none;
 
     }
+
+    #my-work {
+      background-color: #F8F9FA;
+    }
+
+    .stylish-card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+  transition: 0.3s;
+}
+
+.stylish-card:hover {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: scale(1.03);
+}
+
+.stylish-card .card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.stylish-card .btn {
+  color: #fff;
+  background-image: linear-gradient(to right, #ff105f, #ffad06);
+  border: none;
+  padding: 10px 20px;
+  transition: 0.5s;
+}
+
+.stylish-card .btn:hover {
+  background-image: linear-gradient(to right, #ffad06, #ff105f);
+}
+
+h5 {
+  font-family: 'Urbanist';
+}
+
   </style>
 </head>
 <body>
@@ -88,7 +140,7 @@
   <section class="hero-started d-flex align-items-center justify-content-center">
     <div class="container d-flex flex-column flex-sm-row">
       <div class="content col-sm-6 d-flex flex-column justify-content-center left-column">
-        <h2>Librarian • Technologist</h2>
+        <h2>Librarian + Technologist</h2>
         <h1>Cal Murgu</h1>
         <h5>Based in Hamilton , Canada . <br>Get in touch .</h5>
         <div class="social-icons">
@@ -108,8 +160,14 @@
         </div>
       </div>
       <div class="content col-sm-6 d-flex align-items-center justify-content-center ">
-        <img src="cal.png" alt="Cal Murgu" class="profile-img img-fluid hvr-grow-rotate">
-        <svg width="100%" height="100%" class="circle-svg hvr-grow-rotate">
+        <img src="cal.png" alt="Cal Murgu" class="profile-img img-fluid hvr-bob">
+        <svg width="100%" height="100%" class="circle-svg hvr-grow-rotate" style="scroll-behavior: smooth;">
+          <circle class="" cx="150" cy="150" r="120" fill="#EBE7E0" opacity="0.6"/>
+          <circle cx="300" cy="300" r="100" fill="#EB6249" opacity="0.6"/>
+          <circle cx="450" cy="300" r="100" fill="#FBED92" opacity="0.6"/>
+          <circle cx="100" cy="400" r="100" fill="#7FB9DA" opacity="0.6"/>
+        </svg>
+        <svg width="100%" height="100%" class="circle-svg hvr-grow-rotate" style="scroll-behavior: smooth;">
           <circle class="" cx="150" cy="150" r="120" fill="#EBE7E0" opacity="0.6"/>
           <circle cx="300" cy="300" r="100" fill="#EB6249" opacity="0.6"/>
           <circle cx="450" cy="300" r="100" fill="#FBED92" opacity="0.6"/>
@@ -118,5 +176,47 @@
       </div>
     </div>
   </section>
+  <!-- Add this section to your HTML body -->
+
+  <!-- My Work section -->
+  <!-- My Work section -->
+<!-- My Work section -->
+<section id="work" class="my-work" style="background-color: #F8F9FA;">
+  <div class="container">
+    <h2 class="section-heading" style="font-size:3em; font-family: 'Neuton', serif;">My Work</h2>
+    <div class="row" style="padding-bottom: 30px;">
+      <div class="col-md-4">
+        <div class="card stylish-card">
+          <img src="work1.png" class="card-img-top" alt="Work 1">
+          <div class="card-body">
+            <h5 class="card-title">LIS Job Map</h5>
+            <p class="card-text">This project displays job opportunities in the library and information field across Canada. The job data is scraped from partnershipjobs.ca regularly, and presented here in an interactive map format.</p>
+            <a href="https://lis-jobs-map.github.io/" class="btn">Go</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card stylish-card">
+          <img src="work2.png" class="card-img-top" alt="Work 2">
+          <div class="card-body">
+            <h5 class="card-title">Digital Learning Portal</h5>
+            <p class="card-text">A digital library of short, self-paced asynchronous learning objects. Use them today!</p>
+            <a href="https://brocktnl.github.io" class="btn">Go</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card stylish-card">
+          <img src="work3.png" class="card-img-top" alt="Work 3">
+          <div class="card-body">
+            <h5 class="card-title">Asynchronous Toolkit</h5>
+            <p class="card-text">This comprehensive guide provides step-by-step instructions, helpful tips, and real-world examples to empower educators and instructional designers in harnessing the potential of open source for effective e-learning.</p>
+            <a href="https://ecampusontario.pressbooks.pub/asynctoolkit/" class="btn">Go</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 </body>
 </html>
